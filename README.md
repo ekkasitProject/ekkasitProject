@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ekkasit Ponkhunthod</h1>
 <h3 align="center">I've been learning Fullstak [Nextjs, React, Node, MongoDB ] for 6 months now</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekkasitproject&label=Profile%20views&color=0e75b6&style=flat" alt="ekkasitproject" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekkasitproject" alt="ekkasitproject" /></a> </p>
+
 - Create an efficient and user-friendly online shopping platform for clothing, featuring a convenient shopping cart. [E-Commerce (October 2023)](https://ekkasit-e-commerce.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs, TypeScript**
